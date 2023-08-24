@@ -17,6 +17,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
+![DS](https://github.com/Ting-DS/stackoverflow_survey_analysis/blob/main/DS.png)
+
+
 This project aims to use Stack Overflow data (150,000+ responses) from 2021 to 2023 to clarify the relationship between career development in data science and education level and its related factors:
 
 1. What are the educational backgrounds in various data science positions (e.g., data scientist, data analyst, data engineer, machine learning engineer), and how do they differ?
