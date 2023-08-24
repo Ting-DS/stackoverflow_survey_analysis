@@ -1,4 +1,7 @@
-# "Is a PhD Required for a Career in Data Science?"
+# "Do you need a PhD for a Career in Data Science?"
+
+![stackoverflow](https://github.com/Ting-DS/stackoverflow_survey_analysis/blob/main/stackoverflow.png)
+
 
 ### Table of Contents
 
