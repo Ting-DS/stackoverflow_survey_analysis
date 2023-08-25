@@ -40,4 +40,4 @@ The main findings of the code can be found at the post available [here]().
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the stackoverflow link available [here](https://medium.com/@luting347/revealing-data-science-careers-is-a-phd-a-necessity-487ac40ceac6).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the stackoverflow link available [here](https://survey.stackoverflow.co/2023/).  Otherwise, feel free to use the code here as you would like! 
