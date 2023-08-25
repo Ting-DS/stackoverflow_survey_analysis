@@ -36,7 +36,7 @@ There are 4 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@LobsterTing/revealing-data-science-careers-is-a-phd-a-necessity-487ac40ceac6).
+The main findings of the code can be found at the **Medium** post available [here](https://medium.com/@LobsterTing/revealing-data-science-careers-is-a-phd-a-necessity-487ac40ceac6).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
