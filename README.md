@@ -1,5 +1,5 @@
 # Decoding Data Science Careers: PhD or not
-## From [stackoverflow survey data](https://survey.stackoverflow.co/2023/) from 2021 to 2023
+## Utilizing [stackoverflow developer survey](https://survey.stackoverflow.co/2023/) from 2021 to 2023
 
 <div align="center">
   <img src="https://github.com/Ting-DS/stackoverflow_survey_analysis/blob/main/stackoverflow.png" width="50%">
@@ -19,8 +19,9 @@ There should be no necessary libraries to run the code here beyond the **Anacond
 
 ## Project Motivation<a name="motivation"></a>
 
-![DS](https://github.com/Ting-DS/stackoverflow_survey_analysis/blob/main/DS.png)
-
+<div align="center">
+  <img src="https://github.com/Ting-DS/stackoverflow_survey_analysis/blob/main/DS.png" width="50%">
+</div>
 
 This project aims to use Stack Overflow data (150,000+ responses) from 2021 to 2023 to clarify the relationship between career development in data science and education level and its related factors:
 
