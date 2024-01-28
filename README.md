@@ -1,7 +1,8 @@
-# "Do you need a PhD for a Career in Data Science?"
+# "Decoding Data Science Careers: PhD or not" by stackoverflow survey data
 
-![stackoverflow](https://github.com/Ting-DS/stackoverflow_survey_analysis/blob/main/stackoverflow.png)
-
+<div align="center">
+  <img src="https://github.com/Ting-DS/stackoverflow_survey_analysis/blob/main/stackoverflow.png" width="50%">
+</div>
 
 ### Table of Contents
 
